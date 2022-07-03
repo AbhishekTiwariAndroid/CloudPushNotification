@@ -13,7 +13,7 @@ import com.google.firebase.messaging.FirebaseMessaging;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText etToken;
+//    EditText etToken;
 
 
     @Override
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        etToken = findViewById(R.id.etToken);
+//        etToken = findViewById(R.id.etToken);
 
 
         FirebaseMessaging.getInstance().getToken()
@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                         System.out.println(token);
                         Toast.makeText(MainActivity.this,"Your device registeration token is " + token, Toast.LENGTH_SHORT).show();
 
-                        etToken.setText(token);
+//                        etToken.setText(token);
 
                     }
                 });
