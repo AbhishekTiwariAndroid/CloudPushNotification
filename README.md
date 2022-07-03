@@ -20,7 +20,7 @@
 ## About
 FCM is a free, cross-platform messaging solution which allows us to send push notifications to our audience without worrying about the server code.
 
-It helps you engage your app's active users by sending them targeted, messages that encourage them to engaged in app . For example, you could send an push notification message to users like discount offers 🆓🎁 , watch a video🎬, complete a level , or buy an item 🛒. 
+It helps you engage your app's active users by sending them targeted, messages that encourage them to engaged in app . For example, you could send an push notification message to users like discount offers 🆓🎁 , Listen a music🎵🎧 , complete a level , or buy an item 🛒. 
 - Send messages to any device 😃. 
 - Advanced message targeting 🎯 🚀 .
 
