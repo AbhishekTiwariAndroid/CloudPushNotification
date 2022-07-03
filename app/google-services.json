@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390165475517",
+    "project_id": "cloud-push-notification-6dfa2",
+    "storage_bucket": "cloud-push-notification-6dfa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390165475517:android:404e2bb903fa02399147d4",
+        "android_client_info": {
+          "package_name": "com.abhishek.cloudpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390165475517-l4eqnr0psvgl2r6h9quaviq4fqdlo9g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHn8REgOBrSNTOHhVKNU7b5qUIxVGvNUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390165475517-l4eqnr0psvgl2r6h9quaviq4fqdlo9g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
