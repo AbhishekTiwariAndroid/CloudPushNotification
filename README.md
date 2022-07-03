@@ -2,7 +2,7 @@
 
 
 
-[![CloudPushNotification App](https://img.shields.io/badge/CloudPushNotification🚀-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/CloudPushNotification/blob/master/cloudnotification.apk)
+[![CloudPushNotification App](https://img.shields.io/badge/CloudPushNotification🚀-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/CloudPushNotification/blob/master/app-debug.apk)
 
 ## ScreenShots [ Push Notification ]
 
