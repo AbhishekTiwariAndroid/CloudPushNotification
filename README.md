@@ -10,6 +10,12 @@
 
  <img src="https://user-images.githubusercontent.com/42689087/177047271-8d815b97-b39f-4fce-bb96-c3f16c9bbd49.jpg" width="300"/>             <img src="https://user-images.githubusercontent.com/42689087/177047268-2259faea-5b26-4f26-bb7d-f28e5c8901c7.jpg" width="300"/>    
 
+## About Push Notification 
+FCM is a free, cross-platform messaging solution which allows us to send push notifications to our audience without worrying about the server code.
+
+It helps you engage your app's active users by sending them targeted, messages that encourage them to engaged in app . For example, you could send an push notification message to users like discount offers 🆓🎁 , Listen to trending music 🎵🎧 , complete a level , or buy an item 🛒. 
+- Send messages to any device 😃. 
+- Advanced message targeting [ Topic - wise ] 🎯 🚀 .
 
 
 ## Firebase Console Screenshot
@@ -29,12 +35,24 @@
 
 
 
-## About
-FCM is a free, cross-platform messaging solution which allows us to send push notifications to our audience without worrying about the server code.
+## About In-App Messaging
+Firebase In-App Messaging is a service provided by Firebase with the help of which we can engage our app’s active users by sending them notifications in different formats within / right inside in-app. You send notifications to your users to perform so many actions such as watching any video, read an article and many more. You can create customize notifications such as banners, modals, images and send them to your users. These notifications will help you to engage your users across various platforms. 
 
-It helps you engage your app's active users by sending them targeted, messages that encourage them to engaged in app . For example, you could send an push notification message to users like discount offers 🆓🎁 , Listen a music🎵🎧 , complete a level , or buy an item 🛒. 
-- Send messages to any device 😃. 
-- Advanced message targeting 🎯 🚀 .
+🌟⭐  <b> Key Features - - > </b>
+
+-Firebase In-App Messaging is capable of performing the following things:
+
+-Send relevant, engaging messages
+
+-Firebase In-App Messaging sends messages when they are most required and when the users are actually using in our app. When the user visits our in-App store, scale-out the big sales, not when they are in line at the grocery store. Highlight cool, new levels when users play our game, not when they are sitting around watching a big game.
+
+-Target messages by behavior or audience
+
+-Firebase In-App Messaging works with prediction and analytics to provide tools to deliver messages to the users, we want to reach the most. The messages are sent on the basis of users 'past behavior, demographics, or even prediction of their future behavior.
+
+-Create flexible, custom alerts
+
+-Firebase In-App Messaging helps us to do everything from sending promotional offers to update users for a new version of our app with the ability to customize our messages 'style, display triggers, appearance, and content all in a few clicks'.
 
 
 
